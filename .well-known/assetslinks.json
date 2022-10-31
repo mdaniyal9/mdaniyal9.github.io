@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "com.chi.epicexample", "package_name": "com.chi.epicexample",
+               "sha256_cert_fingerprints": ["0D:40:5B:0A:C2:70:5B:75:36:59:CE:F6:D7:3C:72:1A:E2:EB:2A:4C:6A:05:94:7E:0D:69:99:5F:2C:DD:8C:97"] }
+}]
